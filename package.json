@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "rollup": "^2.57.0",
-    "rollup-plugin-dts": "^4.0.0"
+    "rollup-plugin-dts": "^4.2.0"
   }
 }
